@@ -1,2 +1,8 @@
 # vehicle-ad-extractor
-Extrator de dados estruturados de anúncios de veículos com TypeScript e OpenAI, com validação de schema, avaliação de qualidade e monitoramento de custos e latência.
+Structured vehicle listing data extraction with TypeScript and OpenAI, featuring schema validation, quality evaluation, and cost and latency tracking.
+
+
+
+
+
+
